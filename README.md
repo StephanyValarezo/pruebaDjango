@@ -6,5 +6,5 @@ Este proyecto guarda en una base de datos nombre y un boolean
 
 
 creado por Stephany Valarezo
-<p style="color:blue;">hola</p>
+<h1>hola</h1>
 </div>
