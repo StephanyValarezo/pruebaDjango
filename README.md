@@ -18,6 +18,9 @@ creado por Stephany Valarezo
     <a href="#documentation"><strong>Documentation</strong></a>
   </p>
 
+```py
+print("hola mundo")
+```
 
 #### Basic Usage
 ```js
